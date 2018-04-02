@@ -5,6 +5,12 @@
 
 Overview
 ---
+This is the first project of the Udacity Self-Driving Car Nanodegree program.
+This document is a description by the course authors. My solution can be found in the notebook. See writeup.md for details on my solution.
+
+
+Introduction
+---
 
 When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
 
