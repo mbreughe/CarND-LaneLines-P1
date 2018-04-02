@@ -20,7 +20,7 @@ My pipeline (get_lane_lines in the code) has the following stages:
 1. Convert to grayscale
 2. Add Gaussian blur
 3. Use Canny to detect edges
-4. Use a rectangular region of interest to mask off the image
+4. Use a quadrilateral region of interest to mask off the image
 5. Find lines using Hough Transform
 6. Use a heuristic to select only the two relevant lines:
     * This heuristic first sorts the lines by length
